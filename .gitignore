@@ -1,0 +1,9 @@
+*.pyc
+*.swp
+*.ipynb_checkpoints
+*.pickle
+*.json
+*.hdf5
+*.h5
+*.csv
+!.gitignore
